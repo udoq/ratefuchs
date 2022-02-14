@@ -1,0 +1,5 @@
+# ignore all log-, exe- and obj-files
+*.log
+*.exe
+*.obj
+*.o
